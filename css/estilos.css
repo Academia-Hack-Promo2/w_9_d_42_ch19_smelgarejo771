@@ -1,0 +1,109 @@
+div{
+	font-size: 200%;
+}
+
+.tablero{
+	width: 595px;
+	height: 595px;
+	position: relative;
+	text-align: center;
+	margin-left: 340px;
+	border: 1px solid #000;
+	background-image:  url('../img/images(2).jpg'); 
+}
+
+.cuadro{
+	width:75px;
+	height: 75px;
+}
+
+.blanco{
+	background-image: url('../img/images(1).jpg');
+}
+
+.negro{
+	background-image: url('../img/images.jpg');
+}
+
+.linea1{
+	position: absolute;
+	top: 15px;
+}
+
+.linea2{
+	position: absolute;
+	top: 85px;
+}
+
+.linea3{
+	position: absolute;
+	top: 155px;
+}
+
+.linea4{
+	position: absolute;
+	top:225px;
+}
+
+.linea5{
+	position: absolute;
+	top: 295px;
+}
+
+.linea6{
+	position: absolute;
+	top: 365px;
+}
+
+.linea7{
+	position: absolute;
+	top: 435px;
+}
+
+.linea8{
+	position: absolute;
+	top: 505px;
+}
+
+.columna1{
+	position: absolute;
+	left: 15px;
+}
+
+.columna2{
+	position: absolute;
+	left: 85px;
+}
+
+.columna3{
+	position: absolute;
+	left: 155px;
+}
+
+.columna4{
+	position: absolute;
+	left: 225px;
+}
+
+.columna5{
+	position: absolute;
+	left: 295px;
+}
+
+.columna6{
+	position: absolute;
+	left: 365px;
+}
+
+.columna7{
+	position: absolute;
+	left: 435px;
+}
+
+.columna8{
+	position: absolute;
+	left: 505px;
+}
+
+
+
